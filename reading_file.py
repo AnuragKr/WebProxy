@@ -1,5 +1,4 @@
 # Project Title      : DISPLAYING TOP VISITED WEBSITES
-# Group members      : ANURAG KR. SINGH, ANUSHAATH.P, BONALA SANDEEP, SAI PRANEETH BUSA
 # Project details    : Display top n websites by accessing web-proxy log files.
 # Project description   : 1.Input Format -python project_code.py
 #                           Output - It will display websites in top visisted order.
